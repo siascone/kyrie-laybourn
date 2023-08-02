@@ -72,6 +72,19 @@ input, select, textarea {
 	appearance: none;
 }
 
+.one-center > h1 {
+	color: #c23652;
+	font-family: cursive;
+	font-size: 4rem
+}
+
+.one-center {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
 /* Basic */
 
 	@-ms-viewport {
